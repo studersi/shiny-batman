@@ -3,12 +3,12 @@ Shiny Batman
 
 Description:
 --
-Minimalistic UEFI multiboot USB dongle.
+Minimalistic UEFI multiboot USB dongle
 
 Setup:
 --
-* Create GPT partition table
-* Create FAT32 partition
+* create GPT partition table
+* create FAT32 partition
 * copy files to partition
 * add ISOs to 'iso' folder
 
