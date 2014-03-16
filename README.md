@@ -1,1 +1,4 @@
-document engineering for the web
+Shiny Batman
+==
+
+Minimalistic UEFI multiboot USB dongle.
