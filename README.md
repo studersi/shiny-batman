@@ -15,7 +15,7 @@ Setup:
 Supported ISOs:
 --
 * linuxmint-16-cinnamon-dvd-64bit.iso
-* ubuntu-13.10-desktop-amd64.iso"
+* ubuntu-13.10-desktop-amd64.iso
 * boot-repair-disk-64bit.iso
 * pmagic_2014_01_04.iso
 * Fedora-Live-Desktop-x86_64-20-1.iso
