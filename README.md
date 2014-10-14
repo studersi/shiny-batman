@@ -22,3 +22,4 @@ Supported ISOs:
 * archlinux-2014.01.05-dual.iso
 * KNOPPIX_V7.2.0CD-2013-06-16-EN.iso
 * snowlinux-4-cinnamon-amd64.iso
+* archlinux-2014.10.01-dual.iso
