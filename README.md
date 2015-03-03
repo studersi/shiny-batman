@@ -14,8 +14,8 @@ Setup:
 
 Supported ISOs:
 --
-* archlinux-2014.10.01-dual.iso
-* linuxmint-17-cinnamon-64bit-v2.iso
+* archlinux-2014.12.01-dual.iso
+* linuxmint-17.1-cinnamon-64bit.iso
 * ubuntu-14.04.1-desktop-amd64.iso
 * xubuntu-14.04.1-desktop-amd64.iso
 * boot-repair-disk-64bit.iso
